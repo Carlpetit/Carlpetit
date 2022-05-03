@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @CarlTheDev01
-- 👀 I’m interested in programming
+- 👋 Hi, I’m Carl
+- 👀 I’m interested in programming & planes
 - 🌱 I’m currently learning CSS
-- 📫 Reach me on Discord: CarlTheDev#4810
+- 📫 Reach me on Discord: Carl#1681
 
 <!---
 CarlTheDev01/CarlTheDev01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

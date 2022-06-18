@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Carl
 - 👀 I’m interested in programming & planes
-- 🌱 I’m currently learning CSS and Rust
+- 🌱 I’m currently learning CSS, C++, and React.js
 - 📫 Reach me on Discord: Carl#1681
 
 <!---
